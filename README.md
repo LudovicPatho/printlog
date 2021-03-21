@@ -25,7 +25,7 @@ log.error("Is is an error with background", bg=True)
 ```
 *Result :*  
 <center>
-<img src="./img/example1.PNG" alt='example1'>
+<img src="https://github.com/LudovicPatho/printlog/raw/main/img/example1.PNG" alt='example1'>
 </center>
 
 ## Color
@@ -54,5 +54,5 @@ print(cyan("This a cyan text with background", bg=True))
 ```
 *Result :*  
 <center>
-<img src="./img/example2.PNG" alt='example1'>
+<img src="https://github.com/LudovicPatho/printlog/raw/main/img/example2.PNG" alt='example2'>
 </center>
