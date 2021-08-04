@@ -8,7 +8,7 @@
 
 ## Install
 ````
-pip installe printlog
+pip install printlog
 ````
 
 ## Usage 
